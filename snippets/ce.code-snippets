@@ -1,0 +1,26 @@
+{
+  "[global] __fileDir 👻":{
+      "prefix":"__fileDir",
+      "body":[
+          "__fileDir$0",
+      ],
+      "description":"返回当前项目目录文件位置"
+  },
+  "[global] __appDir 👻":{
+      "prefix":"__appDir",
+      "body":[
+          "__appDir$0",
+      ],
+      "description":"运行文件路径位置"
+  },
+  "[global] __isDev 👻":{
+      "prefix":"__isDev",
+      "body":[
+          "__isDev$0",
+      ],
+      "description":"__isDev => true 开发环境 || false 生产环境"
+  },
+
+
+
+}

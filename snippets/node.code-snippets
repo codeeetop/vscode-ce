@@ -1,0 +1,9 @@
+{
+  "[node] require 👻": {
+    "prefix": "require",
+    "body": [
+      "require($0)",
+    ],
+    "description": "require"
+  },
+}

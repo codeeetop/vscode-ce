@@ -1,0 +1,288 @@
+{
+  // 主程序
+  "[electron Main] app 👻": {
+    "prefix": "app",
+    "body": [
+      "app$0",
+    ],
+    "description": "const Electron.app: Electron.App"
+  },
+  "[electron Main] autoUpdater 👻": {
+    "prefix": "autoUpdater",
+    "body": [
+      "autoUpdater$0",
+    ],
+    "description": "const Electron.autoUpdater: Electron.AutoUpdater"
+  },
+  "[electron Main] BrowserView 👻": {
+    "prefix": "BrowserView",
+    "body": [
+      "BrowserView$0",
+    ],
+    "description": "class Electron.BrowserView"
+  },
+  "[electron Main] BrowserWindow 👻": {
+    "prefix": "BrowserWindow",
+    "body": [
+      "BrowserWindow$0",
+    ],
+    "description": "class Electron.BrowserWindow"
+  },
+  "[electron Main || Renderer] clipboard 👻": {
+    "prefix": "clipboard",
+    "body": [
+      "clipboard$0",
+    ],
+    "description": "class Electron.clipboard"
+  },
+  "[electron Main] contentTracing 👻": {
+    "prefix": "contentTracing",
+    "body": [
+      "contentTracing$0",
+    ],
+    "description": "class Electron.contentTracing"
+  },
+  "[electron Main] crashReporter 👻": {
+    "prefix": "crashReporter",
+    "body": [
+      "crashReporter$0",
+    ],
+    "description": "class Electron.crashReporter"
+  },
+  "[electron Main] desktopCapturer 👻": {
+    "prefix": "desktopCapturer",
+    "body": [
+      "desktopCapturer$0",
+    ],
+    "description": "class Electron.desktopCapturer"
+  },
+  "[electron Main] dialog 👻": {
+    "prefix": "dialog",
+    "body": [
+      "dialog$0",
+    ],
+    "description": "class Electron.dialog"
+  },
+  "[electron Main] globalShortcut 👻": {
+    "prefix": "globalShortcut",
+    "body": [
+      "globalShortcut$0",
+    ],
+    "description": "class Electron.globalShortcut"
+  },
+  "[electron Main] inAppPurchase 👻": {
+    "prefix": "inAppPurchase",
+    "body": [
+      "inAppPurchase$0",
+    ],
+    "description": "class Electron.inAppPurchase"
+  },
+  "[electron Main] ipcMain 👻": {
+    "prefix": "ipcMain",
+    "body": [
+      "ipcMain$0",
+    ],
+    "description": "class Electron.ipcMain"
+  },
+  "[electron Main] Menu 👻": {
+    "prefix": "Menu",
+    "body": [
+      "Menu$0",
+    ],
+    "description": "class Electron.Menu"
+  },
+  "[electron Main] MessageChannelMain 👻": {
+    "prefix": "MessageChannelMain",
+    "body": [
+      "MessageChannelMain$0",
+    ],
+    "description": "class Electron.MessageChannelMain"
+  },
+  "[electron Main] MessagePortMain 👻": {
+    "prefix": "MessagePortMain",
+    "body": [
+      "MessagePortMain$0",
+    ],
+    "description": "class Electron.MessagePortMain"
+  },
+  "[electron Main] nativeImage 👻": {
+    "prefix": "nativeImage",
+    "body": [
+      "nativeImage$0",
+    ],
+    "description": "class Electron.nativeImage"
+  },
+  "[electron Main] nativeTheme 👻": {
+    "prefix": "nativeTheme",
+    "body": [
+      "nativeTheme$0",
+    ],
+    "description": "class Electron.nativeTheme"
+  },
+  "[electron Main] net 👻": {
+    "prefix": "net",
+    "body": [
+      "net$0",
+    ],
+    "description": "class Electron.net"
+  },
+  "[electron Main] netLog 👻": {
+    "prefix": "netLog",
+    "body": [
+      "netLog$0",
+    ],
+    "description": "class Electron.netLog"
+  },
+  "[electron Main] Notification 👻": {
+    "prefix": "Notification",
+    "body": [
+      "Notification$0",
+    ],
+    "description": "class Electron.Notification"
+  },
+  "[electron Main] powerMonitor 👻": {
+    "prefix": "powerMonitor",
+    "body": [
+      "powerMonitor$0",
+    ],
+    "description": "class Electron.powerMonitor"
+  },
+  "[electron Main] powerSaveBlocker 👻": {
+    "prefix": "powerSaveBlocker",
+    "body": [
+      "powerSaveBlocker$0",
+    ],
+    "description": "class Electron.powerSaveBlocker"
+  },
+  "[electron Main] process 👻": {
+    "prefix": "process",
+    "body": [
+      "process$0",
+    ],
+    "description": "class Electron.process"
+  },
+  "[electron Main] protocol 👻": {
+    "prefix": "protocol",
+    "body": [
+      "protocol$0",
+    ],
+    "description": "class Electron.protocol"
+  },
+  "[electron Main] safeStorage 👻": {
+    "prefix": "safeStorage",
+    "body": [
+      "safeStorage$0",
+    ],
+    "description": "class Electron.safeStorage"
+  },
+  "[electron Main] screen 👻": {
+    "prefix": "screen",
+    "body": [
+      "screen$0",
+    ],
+    "description": "class Electron.screen"
+  },
+  "[electron Main] session 👻": {
+    "prefix": "session",
+    "body": [
+      "session$0",
+    ],
+    "description": "class Electron.session"
+  },
+  "[electron Main] ShareMenu 👻": {
+    "prefix": "ShareMenu",
+    "body": [
+      "ShareMenu$0",
+    ],
+    "description": "class Electron.ShareMenu"
+  },
+  "[electron Main] shell 👻": {
+    "prefix": "shell",
+    "body": [
+      "shell$0",
+    ],
+    "description": "class Electron.shell"
+  },
+  "[electron Main] systemPreferences 👻": {
+    "prefix": "systemPreferences",
+    "body": [
+      "systemPreferences$0",
+    ],
+    "description": "class Electron.systemPreferences"
+  },
+  "[electron Main] TouchBar 👻": {
+    "prefix": "TouchBar",
+    "body": [
+      "TouchBar$0",
+    ],
+    "description": "class Electron.TouchBar"
+  },
+  "[electron Main] Tray 👻": {
+    "prefix": "Tray",
+    "body": [
+      "Tray$0",
+    ],
+    "description": "class Electron.Tray"
+  },
+  "[electron Main] webContents 👻": {
+    "prefix": "webContents",
+    "body": [
+      "webContents$0",
+    ],
+    "description": "class Electron.webContents"
+  },
+  "[electron Main] webFrameMain 👻": {
+    "prefix": "webFrameMain",
+    "body": [
+      "webFrameMain$0",
+    ],
+    "description": "class Electron.webFrameMain"
+  },
+
+
+  // 渲染程序
+
+  "[electron Renderer] contextBridge 👻": {
+    "prefix": "contextBridge",
+    "body": [
+      "contextBridge$0",
+    ],
+    "description": "class Electron.contextBridge"
+  },
+  "[electron Renderer] crashReporter 👻": {
+    "prefix": "crashReporter",
+    "body": [
+      "crashReporter$0",
+    ],
+    "description": "class Electron.crashReporter"
+  },
+  "[electron Renderer] desktopCapturer 👻": {
+    "prefix": "desktopCapturer",
+    "body": [
+      "desktopCapturer$0",
+    ],
+    "description": "class Electron.desktopCapturer"
+  },
+  "[electron Renderer] ipcRenderer 👻": {
+    "prefix": "ipcRenderer",
+    "body": [
+      "ipcRenderer$0",
+    ],
+    "description": "class Electron.ipcRenderer"
+  },
+  "[electron Renderer] nativeImage 👻": {
+    "prefix": "nativeImage",
+    "body": [
+      "nativeImage$0",
+    ],
+    "description": "class Electron.nativeImage"
+  },
+  "[electron Renderer] webFrame 👻": {
+    "prefix": "webFrame",
+    "body": [
+      "webFrame$0",
+    ],
+    "description": "class Electron.webFrame"
+  },
+
+}
