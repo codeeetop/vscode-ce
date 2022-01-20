@@ -1,0 +1,61 @@
+{
+  "[package] shortcutName 👻": {
+    "prefix": "shortcutName",
+    "body": [
+      "\"shortcutName\":\"$0\"",
+    ],
+    "description": "shortcutName 小程序名称,默认使用name"
+  },
+  "[package] appid 👻": {
+    "prefix": "appid",
+    "body": [
+      "\"appid\":\"$0\"",
+    ],
+    "description": "CodeEngine 小程序 appid"
+  },
+  "[package] build 👻": {
+    "prefix": "build",
+    "body": [
+      "\"build\":{$0}",
+    ],
+    "description": "CodeEngine 小程序打包配置"
+  },
+
+  "[package] build.asar 👻": {
+    "prefix": "asar",
+    "body": [
+      "\"asar\":$0",
+    ],
+    "description": "build.asar  default true "
+  },
+  "[package] build.extraResources 👻": {
+    "prefix": "extraResources",
+    "body": [
+      "\"extraResources\":[$0]",
+    ],
+    "description": "build.extraResources 用于文件或文件目录复制 default []"
+  },
+  "[package] build.files 👻": {
+    "prefix": "files",
+    "body": [
+      "\"files\":[$0]",
+    ],
+    "description": "build.files 忽略某些文件 default []"
+  },
+
+  "[package] build.directories 👻": {
+    "prefix": "directories",
+    "body": [
+      "\"directories\":{$0}",
+    ],
+    "description": "build.directories 配置打包后输出的文件目录 default {}"
+  },
+
+  "[package] build.directories.output 👻": {
+    "prefix": "output",
+    "body": [
+      "\"output\":\"$0\"",
+    ],
+    "description": "build.directories.output 文件输出目录 default \"release\""
+  },
+}

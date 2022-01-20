@@ -2,7 +2,7 @@
   "name": "CodeEngine",
   "displayName": "CodeEngine",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "CodeEngine",
   "icon": "icon.png",
   "engines": {
@@ -28,6 +28,10 @@
       {
         "language": "",
         "path": "./snippets/node.code-snippets"
+      },
+      {
+        "language": "json",
+        "path": "./snippets/package.code-snippets"
       }
     ]
   }
